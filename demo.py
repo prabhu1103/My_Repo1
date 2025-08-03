@@ -15,8 +15,8 @@
 
 # print (first_name, last_name, age, is_working)
 
-text = "Handle"
-print (text + "is a red")
-print (text *3)
-print (text.lower())
-print (text.upper())
+text = "Python"
+text2 = (text[0:-2])
+print (text2)
+
+
