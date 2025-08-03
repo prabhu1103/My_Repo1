@@ -13,10 +13,10 @@
 # height = 5.9
 # is_working = True
 
-# print (first_name, last_name, age, is_working)
+# print (first_name, last_name, age, isworking)
 
 text = "Python"
-text2 = (text[0:-2])
-print (text2)
+# text2 = (text[0:-2])
+# print (text2)
 
-
+print (text[2:5:1])
