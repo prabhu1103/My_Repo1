@@ -20,3 +20,4 @@ text = "Python"
 # print (text2)
 
 print (text[2:5:1])
+print (text)
